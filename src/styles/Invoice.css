@@ -1,0 +1,17 @@
+.invoice-container {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  .invoice-input {
+    width: 80%;
+  }
+  
+  th {
+    text-align: left;
+  }
+  
+  tfoot td {
+    font-weight: bold;
+  }
+  
